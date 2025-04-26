@@ -55,7 +55,8 @@ pip install -r requirements.txt
 ## Adding Your Documents
 
 1. Place your PDF documents in the `data` folder located at the root of the project.
-2. The system will automatically process these documents when you start the application.
+2. You can also upload your word file directly to the data folder
+3. The system will automatically process these documents when you start the application.
 
 ```
 my_hr_chatbot/
